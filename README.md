@@ -1,6 +1,5 @@
 # GeminiPhotosFinder
 
-Marmara Üniversitesi Teknoloji Fakültesi Bilgisayar Mühendisliği 
-Bilgisayar Programlama II Proje
-Ali Burak Gül 
-Ezgi Ceylan
+Seçilen dizide aynı olan ya da seçtiğiniz benzerlik oranına göre benzerleri bulan ve silen uygulama.
+Ali Burak Gül
+
